@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-   
 import random
 
 #pick random number to be guessed from 1 to 50
